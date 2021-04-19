@@ -1,6 +1,14 @@
 # Computer Graphics Library
 - [ ] TODO: organize this in a better way
 
+## Important Links
+Includes Video Lectures
+- [1]
+https://blog.selfshadow.com/
+- [2]
+http://web.engr.oregonstate.edu/~mjb/WebMjb/mjb.html
+
+
 ## Important resources
 
 - [SIGGRAPH Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/)
