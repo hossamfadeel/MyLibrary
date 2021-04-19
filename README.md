@@ -1,4 +1,4 @@
-# MyLibrary
+# Computer Graphics Library
 - [ ] TODO: organize this in a better way
 
 ## Important resources
